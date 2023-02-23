@@ -1,1 +1,1 @@
-# REPO: chlopaki
+# REPO: osoby
